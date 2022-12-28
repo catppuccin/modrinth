@@ -38,7 +38,7 @@
 ## Usage
 
 1. Install Stylus extension for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/), [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) or [Opera](https://addons.opera.com/en-gb/extensions/details/stylus/)
-2. Install the style with Stylus: [🔧 catppuccin for modrinth](https://raw.githubusercontent.com/thismoon/modrinth/main/src/ModrinthCatppuccin.user.css)
+2. Install the style with Stylus: [🔧 catppuccin for modrinth](https://raw.githubusercontent.com/catppuccin/modrinth/main/src/ModrinthCatppuccin.user.css)
 3. Choose Your accent color by Setting Theme in Stylus Options
 
 ## 💝 Thanks to
