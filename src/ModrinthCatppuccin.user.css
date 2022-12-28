@@ -5,8 +5,8 @@
 @description    Soothing pastel theme for Modrinth
 @author         Catppuccin
 @preprocessor   stylus
-@var select lighttheme "Light Variant" ["Latte*", "Frappe", "Macchiato", "Mocha"]
-@var select darktheme "Dark Variant" ["Latte", "Frappe", "Macchiato", "Mocha*"]
+@var select lighttheme "Light Variant" ["Latte*",]
+@var select darktheme "Dark Variant" ["Frappe", "Macchiato", "Mocha*"]
 ==/UserStyle== */
 
 @-moz-document domain("modrinth.com") {
@@ -134,13 +134,9 @@
       }
 
     .light-mode {
-        if (lighttheme=="Latte")     { colourscheme(Latte) }
-        if (lighttheme=="Frappe")    { colourscheme(Frappe) }
-        if (lighttheme=="Macchiato") { colourscheme(Macchiato) }
-        if (lighttheme=="Mocha")     { colourscheme(Mocha) }
+        colourscheme(Latte) 
       }
     .dark-mode {
-        if (darktheme=="Latte")     { colourscheme(Latte) }
         if (darktheme=="Frappe")    { colourscheme(Frappe) }
         if (darktheme=="Macchiato") { colourscheme(Macchiato) }
         if (darktheme=="Mocha")     { colourscheme(Mocha) }
