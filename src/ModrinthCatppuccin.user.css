@@ -169,7 +169,8 @@
           --color-text: var(--ctp-subtext1);
           --color-brand-inverted: var(--ctp-shadow);
           --color-text-dark: var(--ctp-text);
-          --color-table-alternate-row: var(--ctp-crust)
+          --color-table-alternate-row: var(--ctp-crust);
+          --color-table-border: var(--ctp-overlay0)
       }
   
   }
