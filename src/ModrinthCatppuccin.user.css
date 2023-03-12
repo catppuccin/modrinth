@@ -167,6 +167,7 @@
           --color-special-purple: var(--ctp-mauve);
           --color-special-red: var(--ctp-red);
           --color-text: var(--ctp-subtext1);
+          --color-text-inactive: var(--ctp-overlay1);
           --color-brand-inverted: var(--ctp-shadow);
           --color-text-dark: var(--ctp-text);
           --color-table-alternate-row: var(--ctp-crust);
