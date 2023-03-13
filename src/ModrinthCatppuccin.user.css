@@ -152,6 +152,7 @@
           --color-ad: var(--ctp-surface1);
           --color-brand-green: var(--ctp-green);
           --color-button-bg-active: var(--ctp-overlay0);
+          --color-button-bg-hover: var(--ctp-surface2);
           --color-button-bg: var(--ctp-surface1);
           --color-button-text-hover: var(--ctp-text);
           --color-button-text: var(--ctp-subtext1);
